@@ -1,0 +1,16 @@
+{
+  "name": "blogr-landing-page",
+  "version": "1.0.0",
+  "description": "Blogr Landing page challenge from frontendmentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-watch": "npx sass --watch ./sass/styles.scss:./css/styles.css"
+  },
+  "keywords": [],
+  "author": "Winner Ndakutemo",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.63.5"
+  }
+}
